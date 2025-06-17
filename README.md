@@ -1,6 +1,7 @@
 # EC2 Docker Deployment Guide
+I tried it myself and provided all the steps for you as well as me so both of us can learn. Let's learn together!
 
-This guide walks you through deploying a Docker application with MongoDB on an AWS EC2 instance.
+![Cutie](assets/Successfully-Running-EC2.png)
 
 ## Prerequisites
 
@@ -161,7 +162,7 @@ After configuring the Security Group, access your application:
 
 **Application URL:** `http://<your-ec2-public-ip>:3000`
 
-🎉 **Success! Your application is now running on EC2!**
+🎉 **Yay! now running on EC2!**
 
 ![Successfully Running Application](assets/Successfully-Running-EC2.png)
 
