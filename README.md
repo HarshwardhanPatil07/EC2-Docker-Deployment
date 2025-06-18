@@ -1,7 +1,9 @@
 # EC2 Docker Deployment Guide
-I tried it myself and provided all the steps for you as well as me so both of us can learn. Let's learn together!
+I tried it myself and provided all the steps for you as well as me so both of us can learn. Let's learn together! You can check application running below.
 
 ![Cutie](assets/Successfully-Running-EC2.png)
+
+- You Can Access the docker Image from https://hub.docker.com/r/harshwardhan07/my-app/tags 
 
 ## Prerequisites
 
